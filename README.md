@@ -4,10 +4,11 @@ Username: https://www.codewars.com/users/ed_fatchild
 
 ## Structure
 ```
-codewars_solutions  
-├── 0001_Athletic_Association_Stats  
-│   ├── Problem.md  
-│   ├── SolutionAthletics.pm  
-│   └── Test.pl  
-└── README.md  
+./codewars_solutions
+├── 0000_Template_Problem
+│   ├── Problem.md
+│   └── lang
+│       ├── Solution.pm
+│       └── Test.pl
+└── README.md
 ```
