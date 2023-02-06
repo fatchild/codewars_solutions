@@ -1,4 +1,4 @@
-package Solution;
+package SolutionAthletics;
 
 use 5.30.0;
 use strict;

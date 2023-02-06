@@ -8,7 +8,7 @@ use strict;
 use warnings;
 use Test::Most;
 # The name of the solution package is inferred from the code.
-use Solution qw(stats);
+use SolutionAthletics qw(stats);
 
 sub testing {
     my $s = shift;
