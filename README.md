@@ -1,6 +1,8 @@
 # Codewars Solutions
 
-Username: https://www.codewars.com/users/ed_fatchild
+Username: https://www.codewars.com/users/ed_fatchild  
+
+![Codewars badge](https://www.codewars.com/users/ed_fatchild/badges/large)  
 
 ## Structure
 ```
